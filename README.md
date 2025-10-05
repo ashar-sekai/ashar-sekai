@@ -10,8 +10,8 @@ Alongside my academic focus, I’ve developed a strong interest in **game develo
 - 🎓 **CS & Physics student** with a focus on analytical thinking and interdisciplinary applications  
 - 🧩 Currently exploring the overlap between **quantum computation**, **AI**, and **complex systems**  
 - 🎮 Developed a **rogue-like 2D RPG** and worked as a **game tester** for an indie project  
-- ⚔️ Practice **Kenjutsu**, a traditional Japanese sword-fighting discipline  
-- ⚽ Play **soccer** regularly — balance through discipline and flow  
+- ⚔️ Practice **Kenjutsu**, a traditional Japanese sword-fighting discipline
+- ⚽ Play **soccer** regularly 
 - 🌏 Aim to contribute meaningfully to humanity through science, creativity, and shared understanding  
 
 ---
