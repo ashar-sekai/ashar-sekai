@@ -1,6 +1,6 @@
 # 👋 Yo Wsg, I'm Ashar
 
-I'm an **IBDP student from Pakistan**, currently pursuing **Computer Engineering** with the long-term goal of contributing to **Quantum Computing Research**.  
+I'm an **IBDP student from Pakistan**, currently pursuing **Computer Science** with the long-term goal of contributing to **Quantum Computing Research**.  
 Alongside my academic focus, I’ve developed a strong interest in **game development**, **machine learning**, and **quantum mechanics** — fields that inspire both my curiosity and my sense of purpose.
 
 ---
